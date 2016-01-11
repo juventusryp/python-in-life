@@ -1,4 +1,5 @@
 #coding=utf-8
+
 from PIL import Image#需要pillow库
 import glob, os
 in_dir =r'G:\123'#源图片目录
@@ -12,7 +13,7 @@ def main():
         filepath,filename = os.path.split(files)
         im = Image.open(files)
         w,h = im.size
-        im_ss = im.resize((400,400))  
+        im_ss = im.resize((400,400))  #修改后的文件大小
         #im_ss = im.convert('P') 
         #im = im.resize((int(w*percent), int(h*percent)))
         im_ss.save(os.path.join(out_dir,filename))
