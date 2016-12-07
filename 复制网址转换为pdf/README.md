@@ -5,7 +5,7 @@
 ### 依赖
 
 1、wkhtmltopdf  
-下载地址：[http://wkhtmltopdf.org/downloads.html]()  
+下载地址：[http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html)  
 把wkhtmltopdf目录下的bin目录添加到系统路径path中
 
 2、安装pdfkit  pyperclip  
@@ -13,7 +13,7 @@ pip install pdfkit
 pip install pyperclip  
 
 3、autohotkey  
-下载地址：[http://www.ahkscript.org/]()
+下载地址：[http://www.ahkscript.org/](http://www.ahkscript.org/)
 
 ### 使用方法
 
