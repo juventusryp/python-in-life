@@ -2,6 +2,9 @@
 
 浏览器复制url，通过autohotkey转换为pdf
 
+### 效果
+![1.gif](http://upload-images.jianshu.io/upload_images/1061851-ad92a5e28fb90c99.gif?imageMogr2/auto-orient/strip)
+
 ### 依赖
 
 1、wkhtmltopdf  
