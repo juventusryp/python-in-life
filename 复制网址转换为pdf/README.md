@@ -29,3 +29,9 @@ pip install pyperclip
 4、windows键+空格
 
 5、大功告成，在桌面就会生成pdf文件
+
+
+### Update:
+2016-12-28 增加按照当前电脑时间日期保存pdf
+
+
